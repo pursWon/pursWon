@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pursWon
 - 👀 I’m interested in Soccer.
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning SWIFT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
