@@ -28,7 +28,7 @@ hpurs95@gmail.com
 
 ⚒️ **Tech Stack** ⚒️
   
-<img src="https://img.shields.io/badge/Swift-FC8019?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-FC8019?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-3EAAAF?style=for-the-badge&logo=iOS&logoColor=white">
   
 
 <br/><br/>  
