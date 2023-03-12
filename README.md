@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @pursWon
-- 👀 I’m interested in football.
-- 🌱 I’m currently learning SWIFT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pursWon/pursWon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=200&section=header&text=Hello%20it's%20my%20GitHub&fontSize=40&fontColor=e35d5b)
