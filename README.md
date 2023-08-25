@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Hello%20it's%20pursWon&fontSize=100&fontColor=2A00FF&fontAlignY=20&desc=I'm%20iOS%20Developer&descAlignX=90&descAlignY=45&descAlign=70&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Hello%20it's%20pursWon&fontSize=80&fontColor=2A00FF&fontAlignY=20&desc=I'm%20iOS%20Developer&descAlignX=90&descAlignY=45&descAlign=70&descSize=30)
 ![interstellar-gif](https://github.com/pursWon/pursWon/assets/99719661/f2fb3a4a-f161-4397-90ee-28215d46fa01)
 
 
